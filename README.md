@@ -34,8 +34,8 @@ The game showcases how adversarial training creates intelligent, adaptive oppone
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PacMan-Zombie.git
-cd PacMan-Zombie
+git clone https://github.com/miladbarooni/PacMan-Zobmie.git
+cd PacMan-Zobmie
 
 # Install dependencies
 pip install -r requirements.txt
@@ -421,8 +421,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## Credits
 
-**Original Implementation**: Milad (2024)
-**Refactored Package**: Milad with Claude Code (2026)
+**Original Implementation**: Milad Barooni (2024)
+**Refactored Package**: Milad Barooni with Claude Code (2026)
 
 **Algorithm Inspiration**:
 - Temporal Difference Learning (Sutton & Barto, 2018)
@@ -433,8 +433,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/PacMan-Zombie/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/PacMan-Zombie/discussions)
+- **Issues**: [GitHub Issues](https://github.com/miladbarooni/PacMan-Zobmie/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/miladbarooni/PacMan-Zobmie/discussions)
 
 ---
 
