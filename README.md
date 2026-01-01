@@ -389,52 +389,9 @@ pip install numpy colorama
 
 ---
 
-## Contributing
-
-Contributions welcome! Areas for improvement:
-
-### High Priority
-- [ ] Unit tests (pytest framework)
-- [ ] Pygame visual renderer (extract from `game.py`)
-- [ ] Watch script (AI vs AI spectator mode)
-- [ ] Performance profiling and optimization
-
-### Medium Priority
-- [ ] Configuration files (YAML)
-- [ ] Replay viewer/analyzer
-- [ ] Alternative feature sets
-- [ ] Different learning algorithms (Q-learning, DQN)
-
-### Low Priority
-- [ ] Web-based UI
-- [ ] Multiplayer support
-- [ ] Tournament mode
-- [ ] Leaderboards
-
----
-
 ## License
 
 MIT License - See [LICENSE](LICENSE) file for details.
-
----
-
-## Credits
-
-**Original Implementation**: Milad Barooni (2024)
-**Refactored Package**: Milad Barooni with Claude Code (2026)
-
-**Algorithm Inspiration**:
-- Temporal Difference Learning (Sutton & Barto, 2018)
-- Adversarial Training in Games (Silver et al., AlphaGo)
-- Linear Function Approximation in RL
-
----
-
-## Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/miladbarooni/PacMan-Zobmie/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/miladbarooni/PacMan-Zobmie/discussions)
 
 ---
 
